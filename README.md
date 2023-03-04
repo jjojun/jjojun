@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/language--C-blue?style=flat&logo=C&logoColor=FFF61E"/>
+<img src="https://img.shields.io/badge/instagram-E42269?style=flat&logo=Instagram&logoColor=E4405F"/>

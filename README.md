@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/language--C-blue?style=flat&logo=C&logoColor=FFF61E"/>
 <img src="https://img.shields.io/badge/instagram-FFE4E1?style=flat&logo=Instagram&logoColor=E4405F"/>
 <img src="https://img.shields.io/badge/Premiere Pro-6157A5?style=flat&logo=Adobe Premiere Pro&logoColor=9999FF"/>
+<img src="https://img.shields.io/badge/After Effects-6157A5?style=flat&logo=Adobe After Effects&logoColor=9999FF"/>

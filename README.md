@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/language--C-blue?style=flat&logo=C&logoColor=FFF61E"/>
-<img src="https://www.instagram.com/dbwnsx_//badge/instagram-FFE4E1?style=flat&logo=Instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/instagram-FFE4E1?style=flat&logo=Instagram&logoColor=E4405F"/>
 <img src="https://img.shields.io/badge/Premiere Pro-6157A5?style=flat&logo=Adobe Premiere Pro&logoColor=9999FF"/>
 <img src="https://img.shields.io/badge/After Effects-6157A5?style=flat&logo=Adobe After Effects&logoColor=9999FF"/>
 <img src="https://img.shields.io/badge/Arduino-F7CE25?style=flat&logo=Arduino&logoColor=00979D"/>
 <img src="https://img.shields.io/badge/Visual Studio-646E8F?style=flat&logo=Visual Studio&logoColor=#5C2D91"/>
+<img src="https://img.shields.io/badge/Facebook-CCDBE4?style=flat&logo=Facebook&logoColor=##1877F2"/>

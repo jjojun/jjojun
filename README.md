@@ -21,7 +21,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjojun&layout=compact)](https://github.com/downpour07/github-readme-stats)
 </div>
 </div>
-<br/>
 <h2 align="center">
   🔨 Tools
 </h2>

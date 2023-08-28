@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjojun&layout=compact)](https://github.com/downpour07/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjojun&layout=compact)](https://github.com/jjojun/github-readme-stats)
 </div>
 </div>
 <h2 align="center">

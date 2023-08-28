@@ -44,6 +44,7 @@
 <div align="center">
 <br/>
 <h2 align="center">
+  🌱 I’m currently learning
   <h2/>
 <!--
 **jjojun/jjojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

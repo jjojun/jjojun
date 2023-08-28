@@ -3,7 +3,6 @@
     👨‍💻 Firmware Developer
     <h2/>
 </div>
-<br/>
 <h2 align="center">
   📝 language
 </h2>

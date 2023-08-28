@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjojun&layout=compact)](https://github.com/jjojun/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjojun&layout=compact)](https://github.com/downpour07/github-readme-stats)
 </div>
 </div>
 <br/>
@@ -52,4 +53,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjojun&show_icons=true&theme=radical)
+<div align="center">
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjojun&show_icons=true&theme=radical)
+</div>

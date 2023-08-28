@@ -1,5 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Yujun'sㅤGitHub&fontAlign=50&fontAlignY=40&color=gradient)
-<p>🖐️ Welcome!</p>
+<h2>🖐️ Welcome!<h2/>
 <h2 align="center">
   📝 language
 </h2>

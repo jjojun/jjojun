@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=yu-jun&fontAlign=40&fontAlignY=50&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=yu-jun&fontAlign=50&fontAlignY=40&color=gradient)
 
 <div align="center">
   <h2>

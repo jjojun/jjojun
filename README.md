@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">
+  <h2>
     👨‍💻 Firmware Developer
     <h2/>
 </div>
@@ -37,7 +37,6 @@
 </h2>
 <br/>
 <div align="center">
-  
   <a href="mailto:dmddkslek0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dmddkslek00@gmail.com"/></a>
   <a href="https://www.instagram.com/dbwnsx_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dbwnsx_"/></a>
 </div>

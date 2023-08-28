@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=yu-jun&fontAlign=50&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Yujun's GitHub&fontAlign=50&fontAlignY=40&color=gradient)
 
 <div align="center">
   <h2>
@@ -32,17 +32,17 @@
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
 </div>
-<br/>
+
 <h2 align="center">
 🖐️ It's Me
 </h2>
-<br/>
+
 <div align="center">
   <a href="mailto:dmddkslek0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dmddkslek00@gmail.com"/></a>
   <a href="https://www.instagram.com/dbwnsx_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dbwnsx_"/></a>
 </div>
 <div align="center">
-<br/>
+
 <h2 align="center">
   🌱 I’m currently learning
   <h2/>

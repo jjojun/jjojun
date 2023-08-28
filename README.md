@@ -1,4 +1,8 @@
-<div align="center">👨‍💻 Firmware Developer</div>
+<div align="center">
+  <h2 align="center">
+    👨‍💻 Firmware Developer
+    <h2/>
+</div>
 <br/>
 <h2 align="center">
   📝 language
@@ -40,7 +44,8 @@
 </div>
 <div align="center">
 <br/>
-### 🌱 I’m currently learning
+<h2 align="center">
+  <h2/>
 <!--
 **jjojun/jjojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

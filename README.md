@@ -1,7 +1,7 @@
-<div align="center">👨‍💻Firmware Developer👨‍💻</div>
+<div align="center">👨‍💻 Firmware Developer</div>
 <br/>
 <h2 align="center">
-  💻Tech Stack💻
+  💻Tech Stack
 </h2>
 <br/>
 <div align="center">
@@ -29,7 +29,7 @@
 </div>
 <br/>
 <h2 align="center">
-  🖐️It's Me🖐️
+🖐️ It's Me
 </h2>
 <br/>
 <div align="center">

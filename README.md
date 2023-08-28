@@ -62,3 +62,7 @@ Here are some ideas to get you started:
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjojun&show_icons=true&theme=radical)
 </div>
+</div>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer" alt="Footer">
+</div>

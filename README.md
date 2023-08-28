@@ -1,8 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Yujun'sㅤGitHub&fontAlign=50&fontAlignY=40&color=gradient)
 <h1>🖐️ Welcome!<h1/>
-<h2 align="center">
+<h3 align="center">
   📝 language
-</h2>
+</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjojun&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjojun&show_icons=true&theme=holi)
 </div>
 </div>
 

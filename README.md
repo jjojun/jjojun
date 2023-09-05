@@ -1,8 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Yujun's%20GitHub💻&fontAlign=50&fontAlignY=40&color=gradient)
-<h3 align="center">🖐️ Welcome!<h3/>
-  <h3 align="center">🧑‍💻Firmware Developer<h3/>
+<h3 align="center">🖐️ Welcome!🖐️<h3/>
+  <h3 align="center">🧑‍💻Firmware Developer🧑‍💻<h3/>
 <h3 align="center">
-  📝 language
+  📝 language 📝 
 </h3>
 
 <div align="center">
@@ -15,11 +15,11 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjojun&layout=compact)](https://github.com/jjojun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjojun&langs_count=8)](https://github.com/jjojun/github-readme-stats)
 </div>
 </div>
 <h3 align="center">
-  🔨 Tools
+  🔨 Tools 🔨
 </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -31,7 +31,7 @@
 </div>
 
 <h3 align="center">
-🖐️ It's Me
+🖐️ It's Me 🖐️
 </h3>
 
 <div align="center">
@@ -41,7 +41,7 @@
 <div align="center">
 
 <h3 align="center">
-  🌱 I’m currently learning
+  🌱 I’m currently learning 🌱
   <h3/>
 <!--
 **jjojun/jjojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

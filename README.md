@@ -56,5 +56,4 @@ Here are some ideas to get you started:
 </div>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer" alt="Footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=footer" alt="Footer">
 </div>

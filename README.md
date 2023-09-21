@@ -4,7 +4,6 @@
 <h3 align="center">
   📝 language 📝 
 </h3>
-
 <div align="center">
   
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
@@ -13,8 +12,9 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjojun&langs_count=8)](https://github.com/jjojun/github-readme-stats)
   <div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjojun&langs_count=8)](https://github.com/jjojun/github-readme-stats)
+</div>
 </div>
 <h3 align="center">
   🔨 Tools 🔨
@@ -27,17 +27,14 @@
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
-
 <h3 align="center">
 🖐️ It's Me 🖐️
 </h3>
-
 <div align="center">
   <a href="mailto:dmddkslek0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dmddkslek00@gmail.com"/></a>
   <a href="https://www.instagram.com/dbwnsx_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dbwnsx_"/></a>
 </div>
 <div align="center">
-
 <h3 align="center">
   🌱 I’m currently learning 🌱
   <h3/>
@@ -54,12 +51,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjojun&show_icons=true&theme=shadow_blue)
 </div>
 </div>
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer" alt="Footer">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=footer" alt="Footer">
 </div>
-
-//test

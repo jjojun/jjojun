@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjojun&langs_count=8)](https://github.com/jjojun/github-readme-stats)
 </div>
 </div>
 <h3 align="center">
@@ -51,7 +50,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjojun&show_icons=true&theme=shadow_blue)
 </div>
 </div>
 

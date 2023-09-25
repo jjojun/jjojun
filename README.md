@@ -1,9 +1,11 @@
 <div align="center">
+  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=🧑‍💻Yujun's%20GitHub🧑‍💻&fontAlign=50&fontAlignY=40&color=gradient)
+<h2 align="center">🖐️ Welcome!🖐️<h2/>
   </div>
 <hr/>
 <br/>
 <div align="center">
-  <h3>👨‍💻Firmware Developer👨‍💻</h3></div>
+  <h2>👨‍💻Firmware Developer👨‍💻</h2></div>
 <br/>
 <h2 align="center">
   💻Tech Stack💻
@@ -41,7 +43,6 @@
   
   <a href="mailto:dmddkslek0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dmddkslek0@gmail.com"/></a>
   <a href="https://www.instagram.com/youn_nce"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/youn_nce"/></a>
-  <a href="https://www.notion.so/PORTPOLIO-3827f927d19142e2a4e0a6806ad7db95?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/PORTPOLIO-3827f927d19142e2a4e0a6806ad7db95?pvs=4"/></a>
 </div>
 <div align="center">
 

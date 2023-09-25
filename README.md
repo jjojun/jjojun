@@ -1,7 +1,4 @@
-<div align="center">
   ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=🧑‍💻Yujun's%20GitHub🧑‍💻&fontAlign=50&fontAlignY=40&color=gradient)
-<h2 align="center">🖐️ Welcome!🖐️<h2/>
-  </div>
 <hr/>
 <br/>
 <div align="center">

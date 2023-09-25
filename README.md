@@ -2,7 +2,8 @@
   </div>
 <hr/>
 <br/>
-<div align="center">👨‍💻Firmware Developer👨‍💻</div>
+<div align="center">
+  <h3>👨‍💻Firmware Developer👨‍💻</h3></div>
 <br/>
 <h2 align="center">
   💻Tech Stack💻

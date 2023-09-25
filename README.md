@@ -3,7 +3,7 @@
 <br/>
 <div align="center">
   <h2>👨‍💻Hardware Developer👨‍💻</h2>
-  "🌱I will become a hardware developer filled with imagination and innovation.🌱"
+  <h3>"🌱I will become a hardware developer filled with imagination and innovation.🌱"</h3>
 </div>
 <br/>
 <h2 align="center">

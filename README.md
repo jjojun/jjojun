@@ -1,5 +1,5 @@
 
-  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=🧑‍💻Yujun's%20GitHub🧑‍💻&fontAlign=50&fontAlignY=40&color=gradient)
+  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&textYujun's%20GitHub&fontAlign=50&fontAlignY=40&color=gradient)
 <br/>
 <div align="center">
   <h2>👨‍💻Hardware Developer👨‍💻</h2>

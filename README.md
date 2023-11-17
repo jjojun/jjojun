@@ -3,7 +3,7 @@
 <br/>
 <div align="left">
   <h2>Hi! there 👋</h2>
-  <p>Hi! I'm Yujun Choi. I live in South Korea.
+  <p>Hi! I'm Yujun Choi. I live in South Korea. 🇰🇷
     <br>
     I'm strive to become an imaginative and innovative hardware developer. 🌱</p>
   <br>
@@ -24,6 +24,8 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjojun&layout=compact)](https://github.com/jjojun/github-readme-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjojun&show_icons=true&theme=)
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjojun&theme=high-contrast&height=250" alt="GitHub Activity Graph">
 </div>
 <br/>
 

@@ -7,7 +7,7 @@
     <br>
     I'm strive to become an imaginative and innovative hardware developer. 🌱</p>
   <br>
-  <p>If you want to get in touch with me, click the button below!</p>
+  <p>If you want to get in touch with me, click the button below! 👇</p>
   <a href="mailto:dmddkslek0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dmddkslek0@gmail.com"/></a>
   <a href="https://www.instagram.com/dbwnsx_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/youn_nce"/></a>
 </div>

@@ -25,7 +25,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjojun&layout=compact)](https://github.com/jjojun/github-readme-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjojun&show_icons=true&theme=)
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjojun&theme=high-contrast&height=250" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjojun&theme=github-compact&height=250" alt="GitHub Activity Graph">
 </div>
 <br/>
 

@@ -6,6 +6,7 @@
   <p>Hi! I'm Yujun Choi. I live in South Korea. 🇰🇷
     <br>
     I'm strive to become an imaginative and innovative Embedded developer. 🌱</p>
+  <p>+ 레포를 정리했더니 잔디가 없어졌어요;;;</p>
   <br>
   <p>If you want to get in touch with me, click the button below! 👇</p>
   <a href="mailto:dmddkslek0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dmddkslek0@gmail.com"/></a>

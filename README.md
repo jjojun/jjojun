@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </div>
     <div align="left">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjojun)](https://github.com/anuraghazra/github-readme-stats)
   <br>
 </div>
 <br/>
